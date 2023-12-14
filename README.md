@@ -1,6 +1,6 @@
 ![image](https://github.com/darkhoundz/KLCiS-AdoPisoft-E-Payment/assets/28075740/5854f4c9-b522-4ff4-af5f-aa70aa07640a)
 
-**KLCiS Voucher System** supports all AdoPisoft versions whether it is Lite or Business license.
+**KLCiS Voucher System** supports all AdoPisoft versions whether it is Lite or Business license. <br><br>
 
 **REQUIREMENTS:** <br><br>
 
